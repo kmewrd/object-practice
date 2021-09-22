@@ -16,3 +16,11 @@ var car = {
 }
 
 console.log(car);
+
+var customer = {
+  name: "Karen",
+  age: 40,
+  isAngry: true,
+}
+
+console.log(customer);
