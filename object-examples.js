@@ -7,3 +7,12 @@ var zooAnimal = {
 }
 
 console.log(zooAnimal);
+
+var car = {
+  make: "Subaru",
+  model: "Outback",
+  year: 2015,
+  isWhite: true,
+}
+
+console.log(car);
